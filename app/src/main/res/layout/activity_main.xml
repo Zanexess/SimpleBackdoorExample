@@ -13,5 +13,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Предполагаем, что приложение имеет хоть какую-то полезность. Насколько я знаю, создать приложение без какого либо окна нельзя, только если сделать его прозрачным. Поэтому считаем, что пользователь скачал приложение из маркета, например" />
 </RelativeLayout>
